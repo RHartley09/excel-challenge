@@ -1,1 +1,3 @@
 # excel-challenge
+
+This challenge had me look at Kickstarter data to determine trends, and to see what made projects successful or unsuccessful. This was all done in Excel.
